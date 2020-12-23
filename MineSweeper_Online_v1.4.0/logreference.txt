@@ -1,0 +1,27 @@
+********************************
+MineSweeper Online Log Reference
+********************************
+
+Classic Mode:
+-------------
+
+-   Non-clicked square
+*   Mine
+!   Clicked mine (game over)
+?   Question mark
+X   Wrongly flagged square (no mine)
+F   Flagged mine
+0-8 Number of mines in adjecent squares
+
+
+Hotseat/Online Modes:
+---------------------
+
+-   Non-clicked square
+*   Mine
+R   Flagged by Red
+B   Flagged by Blue
+Y   Flagged by Yellow
+P   Flagged by Purple
+0-8 Number of mines in adjacent squares
+?   ? square
